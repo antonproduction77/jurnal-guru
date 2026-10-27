@@ -1,0 +1,6 @@
+{
+  "name": "Jurnal Guru SMP",
+  "description": "Aplikasi Jurnal Mengajar Harian Guru SMP untuk mencatat KBM harian, presensi kehadiran siswa, foto dokumentasi kelas, dan rekap laporan siap cetak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
